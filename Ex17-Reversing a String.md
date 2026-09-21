@@ -57,7 +57,8 @@ public class StringReversal {
 
 ## Output:
 
-<img width="640" height="255" alt="image" src="https://github.com/user-attachments/assets/79c30421-7ba0-42d4-b904-e8dca0250143" />
+<img width="490" height="231" alt="image" src="https://github.com/user-attachments/assets/cae592ad-3898-4e3d-974f-b765df2057d7" />
+
 
 
 
