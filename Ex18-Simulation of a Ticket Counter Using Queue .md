@@ -130,7 +130,8 @@ class TicketCounterQueue {
 ## Output:
 
 
-<img width="161" height="342" alt="image" src="https://github.com/user-attachments/assets/8c2f320b-55ab-4b29-a77d-66b85c0b6f5d" />
+<img width="1105" height="717" alt="image" src="https://github.com/user-attachments/assets/167c9f7c-daf5-48c0-b502-f617ec1bcd44" />
+
 
 
 
