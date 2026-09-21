@@ -74,11 +74,9 @@ public class PalindromeCheck {
 
 ## Output:
 
-<img width="595" height="226" alt="image" src="https://github.com/user-attachments/assets/1aefdc9d-089e-4b0b-b0e4-53731671c860" />
 
 
-
-<img width="580" height="202" alt="image" src="https://github.com/user-attachments/assets/1820e55b-3449-49b2-a0a6-9807437db7bd" />
+<img width="472" height="242" alt="image" src="https://github.com/user-attachments/assets/67a63694-6f9c-412d-9083-80509dd146c2" />
 
 
 ## Result:
