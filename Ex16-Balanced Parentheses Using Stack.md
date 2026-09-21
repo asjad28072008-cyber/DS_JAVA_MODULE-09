@@ -86,10 +86,9 @@ public class BalancedParentheses {
 
 ## Output:
 
-<img width="697" height="272" alt="image" src="https://github.com/user-attachments/assets/abc8d597-5921-40c9-a5bd-a1beb771ec93" />
+<img width="457" height="253" alt="image" src="https://github.com/user-attachments/assets/a3f870d8-89a8-4b43-9e42-9bea0d1f9a91" />
 
 
-<img width="607" height="192" alt="image" src="https://github.com/user-attachments/assets/0e0c24f6-f532-4b10-b751-d8a87149665e" />
 
 
 ## Result:
